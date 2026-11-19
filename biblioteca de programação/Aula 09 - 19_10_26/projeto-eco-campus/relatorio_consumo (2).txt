@@ -1,0 +1,7 @@
+========== ECOCAMPUS ==========
+Locais analisados: 20
+Consumo total: 17894.10 litros
+Consumo medio: 894.70 litros
+Maior consumo: Piscina - 2100.80 litros
+Locais em alerta: 8
+================================
