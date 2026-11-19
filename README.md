@@ -26,7 +26,8 @@ Cada pasta contém seus respectivos arquivos de código-fonte, facilitando a ide
 - O repositório reúne os exercícios realizados durante as aulas 
 
 
-Desenvolvido por: Rafael Marques de Oliveira
+Desenvolvido por: Rafael Marques de Oliveira   
+RGM:47877081
 
 Curso: Bacharelado em Ciência da Computação
 
